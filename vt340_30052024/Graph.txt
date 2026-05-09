@@ -1,0 +1,63 @@
+C[ode]:<CodeName>,[<Keyboard>,[,<Symbol>]]
+G[rid]:<DX>,<DY>
+L[ine]:<X0>,<Y0>,<X1>,<Y1>,...,<Xn>,<Yn>
+R[ectangle]:<X>,<Y>,<DX>,<DY>
+P[olygon]:<X0>,<Y0>,<X1>,<Y1>,...,<Xn>,<Yn>
+T[ext]:<X>,<Y>,<Text>
+D[raw]:<X>,<Y>,<File>
+Pi[xels]:<X>,<Y>,<Color>
+Pen:<Color>,<PenStyle>,<Width>
+F[ont]:<FontName>,<Color>,<FontStyle>,<Size>
+B[rush]:<Color>
+* Комментарий
+
+<CodeName>: 
+KOИ7
+KOI7
+KOИ8
+KOI8
+
+<Keyboard>:
+RUS
+LAT
+РУС
+ЛАТ
+
+
+<Color>:  
+Black       - ($000000) - черный цвет;
+Maroon      - ($000080) - коричневый цвет;
+Green       - ($008000) - темно-зеленый цвет;
+Olive       - ($008080) -
+Navy        - ($800000) -
+Purple      - ($800080) -
+Teal        - ($808000) -
+Gray        - ($808080) - серый цвет;
+Silver      - ($C0C0C0) -
+Red         - ($0000FF) - красный цвет;
+Lime        - ($00FF00) - светло-зеленый цвет;
+Yellow      - ($00FFFF) - желтый цвет;
+Blue        - ($FF0000) - синий цвет;
+Fuchsia     - ($FF00FF) - фиолетовый цвет;
+Aqua        - ($FFFF00) - голубой цвет;
+LtGray      - ($C0C0C0) -
+DkGray      - ($808080) -
+White       - ($FFFFFF) - белый цвет
+
+<PenStyle>:
+Solid       -
+Dash        -
+Dot         -
+DashDot     - 
+DashDotDot  -
+Clear       -
+InsideFrame -
+
+<FontStyle>:
+Bold        - жирный текст;
+Italic      - наклонный текст (курсив);
+Underline   - подчёркнутый текст;
+StrikeOut   - зачёркнутый текст.
+
+
+
